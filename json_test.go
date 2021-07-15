@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"rogchap.com/v8go"
+	"github.com/sthorne/v8go/v8go"
 )
 
 func TestJSONParse(t *testing.T) {
